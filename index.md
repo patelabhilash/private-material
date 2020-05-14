@@ -33,11 +33,11 @@
 
 1. Look for ALL **step wise explanations** in the page.
 For each step wise explanation :  click maximize then (+).  Take separate screenshot of  the explanation. click (-) , then minimize.
-2. Look for ALL **show hint** and ONE **show solution**. Click on each "show hint", click on "show solution" , then "no just show solution". take screenshot.
+2. Look for ALL **show hint** and ALL **show solution**. Click on each "show hint", click on "show solution" , then "no just show solution". take screenshot.
 
-So total no. of screenshots = no. of step wise explanation + 1 (which is the same page u are on) .
+``So total no. of screenshots = no. of step wise explanation + 1 (which is the same page u are on) .``
 
-3. Look for ALL **black-background texts**. For each black-background texts : copy texts, create new file named "1.txt". paste and save it. 
+3. Look for ALL **black-background texts**. For each black-background texts : copy texts, create new file named "1.txt". paste and save it.
 Files should be saved as the order they appear in the topic webpage. File names be like : 1.txt, 2.txt. 3.txt etc.
 
 So total no. of txt files = no. of black-background texts in the same page u are on.
@@ -60,10 +60,10 @@ For each step wise explanation : <br/>
   ***Take separate screenshot of  the explanation.*** <br/>
    **click (-)** <br/>
 ![](./images/instruction_3.PNG)<br/>
-   then minimize. <br/>
+   **then minimize.** <br/>
 ![](./images/instruction_4.PNG)<br/>
 
-1. Look for ALL **show hint** and ONE **show solution** <br/>
+1. Look for ALL **show hint** and ALL **show solution** <br/>
 **Click on each "show hint",** <br/>
 ![](./images/instruction_5.PNG)<br/>
  **click on "show solution"** <br/>
@@ -75,7 +75,7 @@ For each step wise explanation : <br/>
  
   **take screenshot.**  <br/>
 
-So total no. of screenshots = no. of step wise explanation + 1 (which is the same page u are on) .
+``So total no. of screenshots = no. of step wise explanation + 1 (which is the same page u are on) .``
 
 1. Look for ALL **black-background texts**. For each black-background texts : copy texts, create new file named "1.txt". paste and save it. 
 ![](./images/instruction_11.PNG)<br/>
@@ -84,7 +84,7 @@ Files should be saved as the order they appear in the topic webpage. File names 
 
 So total no. of txt files = no. of black-background texts in the same page u are on.
 
-_**So total no. of files in a topic folder = no. of screenshots +  no. of black-background texts**_
+``_**So total no. of files in a topic folder = no. of screenshots +  no. of black-background texts**_``
 ![](./images/instruction_9.PNG)<br/>
 ![](./images/instruction_8.PNG)<br/>
 
