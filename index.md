@@ -85,3 +85,4 @@ So total no. of txt files = no. of black-background texts in the same page u are
 _**So total no. of files in a topic folder = no. of screenshots +  no. of black-background texts**_
 ![](./images/instruction_9.PNG)<br/>
 ![](./images/instruction_8.PNG)
+:thumbsup:
