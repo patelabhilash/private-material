@@ -49,6 +49,7 @@ So total no. of txt files = no. of black-background texts in the same page u are
 <hr/>
 
 ## with image explanation of the same
+
 1. Look for ALL **step wise explanations** in the page.<br/>
 For each step wise explanation : <br/> 
 **click maximize** <br/>
@@ -79,12 +80,12 @@ For each step wise explanation : <br/>
 
 1. Look for ALL **black-background texts**. For each black-background texts : copy texts, create new file named "1.txt". paste and save it. 
 ![](./images/instruction_11.PNG)<br/>
-   
+
 Files should be saved as the order they appear in the topic webpage. File names be like : 1.txt, 2.txt. 3.txt etc.
 
 So total no. of txt files = no. of black-background texts in the same page u are on.
 
-``_**So total no. of files in a topic folder = no. of screenshots +  no. of black-background texts**_``
+_**``So total no. of files in a topic folder = no. of screenshots +  no. of black-background texts``**_
 ![](./images/instruction_9.PNG)<br/>
 ![](./images/instruction_8.PNG)<br/>
 
