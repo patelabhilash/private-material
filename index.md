@@ -1,9 +1,9 @@
 # Tasks to be performed
-##### on link https://www.educative.io
+##### on link [https://www.educative.io](https://www.educative.io)
 
 ### Table of Contents
 - [Tasks to be performed](#tasks-to-be-performed)
-        - [on link educative.io](#on-link-educativeio)
+        - [on link https://www.educative.io](#on-link-httpswwweducativeio)
     - [Table of Contents](#table-of-contents)
     - [Google drive and extension setup](#google-drive-and-extension-setup)
     - [Folder structure](#folder-structure)
@@ -13,8 +13,7 @@
 ### Google drive and extension setup
 
 1.	Upload in google drive to a dedicated folder of ak007patra@gmail.com
-2.	Link for chrome extension:
-3.	 https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?hl=en
+2.	Link for chrome extension: [extension link](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?hl=en)
 4.	Use this extension to capture screenshot then CTRL + S to save it. 
 
 
