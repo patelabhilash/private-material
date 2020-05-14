@@ -1,5 +1,6 @@
 # Tasks to be performed
 ##### on link [https://www.educative.io](https://www.educative.io)
+<hr/>
 
 ### Table of Contents
 - [Tasks to be performed](#tasks-to-be-performed)
@@ -9,6 +10,7 @@
     - [Folder structure](#folder-structure)
     - [Action to be taken on the topic-webpage](#action-to-be-taken-on-the-topic-webpage)
     - [with image explanation of the same](#with-image-explanation-of-the-same)
+<hr/>
 
 ### Google drive and extension setup
 
@@ -16,6 +18,7 @@
 2.	Link for chrome extension: [extension link](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?hl=en)
 4.	Use this extension to capture screenshot then CTRL + S to save it. 
 
+<hr/>
 
 ### Folder structure
 
@@ -23,6 +26,7 @@
 ![alt](images/instruction_10.PNG)
 ![](./images/instruction_8.PNG)
 2.	All codes should be in **java** (mandatorily ) if options available
+<hr/>
 
 
 ### Action to be taken on the topic-webpage
