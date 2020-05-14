@@ -21,8 +21,8 @@
 ### Folder structure
 
 1.	Main folder with name : educative_courses
-![](./images/instruction_10.png)
-![](./images/instruction_8.png)
+![alt](images/instruction_10.PNG)
+![](./images/instruction_8.PNG)
 2.	All codes should be in **java** (mandatorily ) if options available
 
 
@@ -47,38 +47,38 @@ _**So total no. of files in a topic folder = no. of screenshots +  no. of black-
 1. Look for ALL **step wise explanations** in the page.<br/>
 For each step wise explanation : <br/> 
 click maximize 
-![](./images/instruction_1.png)<br/>
+![](./images/instruction_1.PNG)<br/>
 then (+).
-![](./images/instruction_2.png)<br/>
+![](./images/instruction_2.PNG)<br/>
 
 
   Take separate screenshot of  the explanation.
    click (-) , 
-![](./images/instruction_3.png)<br/>
+![](./images/instruction_3.PNG)<br/>
    then minimize.
-![](./images/instruction_4.png)<br/>
+![](./images/instruction_4.PNG)<br/>
 
 2. Look for ALL **show hint** and ONE **show solution**.
 Click on each "show hint",
-![](./images/instruction_5.png)<br/>
+![](./images/instruction_5.PNG)<br/>
  click on "show solution" 
  
-![](./images/instruction_6.png)<br/>
+![](./images/instruction_6.PNG)<br/>
 
  then "no just show solution".
-![](./images/instruction_7.png)<br/>
+![](./images/instruction_7.PNG)<br/>
  
   take screenshot.
 
 So total no. of screenshots = no. of step wise explanation + 1 (which is the same page u are on) .
 
 1. Look for ALL **black-background texts**. For each black-background texts : copy texts, create new file named "1.txt". paste and save it. 
-![](./images/instruction_11.png)<br/>
+![](./images/instruction_11.PNG)<br/>
    
 Files should be saved as the order they appear in the topic webpage. File names be like : 1.txt, 2.txt. 3.txt etc.
 
 So total no. of txt files = no. of black-background texts in the same page u are on.
 
 _**So total no. of files in a topic folder = no. of screenshots +  no. of black-background texts**_
-![](./images/instruction_9.png)<br/>
-![](./images/instruction_8.png)
+![](./images/instruction_9.PNG)<br/>
+![](./images/instruction_8.PNG)
