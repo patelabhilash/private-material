@@ -55,7 +55,7 @@ For each step wise explanation : <br/>
 ![](./images/instruction_2.PNG)<br/>
 
 
-  Take separate screenshot of  the explanation.
+  ***Take separate screenshot of  the explanation.*** <br/>
    **click (-)** <br/>
 ![](./images/instruction_3.PNG)<br/>
    then minimize. <br/>
