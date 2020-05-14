@@ -45,29 +45,29 @@ _**So total no. of files in a topic folder = no. of screenshots +  no. of black-
 ### with image explanation of the same
 1. Look for ALL **step wise explanations** in the page.<br/>
 For each step wise explanation : <br/> 
-click maximize 
+**click maximize**
 ![](./images/instruction_1.PNG)<br/>
-then (+).
+**then (+).**
 ![](./images/instruction_2.PNG)<br/>
 
 
   Take separate screenshot of  the explanation.
-   click (-) , 
+   **click (-)**
 ![](./images/instruction_3.PNG)<br/>
    then minimize.
 ![](./images/instruction_4.PNG)<br/>
 
-2. Look for ALL **show hint** and ONE **show solution**.
-Click on each "show hint",
+1. Look for ALL **show hint** and ONE **show solution** <br/>
+**Click on each "show hint",**
 ![](./images/instruction_5.PNG)<br/>
- click on "show solution" 
+ **click on "show solution"**
  
 ![](./images/instruction_6.PNG)<br/>
 
- then "no just show solution".
+ **then "no just show solution".**
 ![](./images/instruction_7.PNG)<br/>
  
-  take screenshot.
+  **take screenshot.**
 
 So total no. of screenshots = no. of step wise explanation + 1 (which is the same page u are on) .
 
