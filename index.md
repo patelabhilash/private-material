@@ -44,6 +44,8 @@ So total no. of txt files = no. of black-background texts in the same page u are
 
 ### _**So total no. of files in a topic folder = no. of screenshots +  no. of black-background texts**_
 
+4. Right click on the webpage u are on. click on "save as"  choose type "Webpage, complete". It will create one html file and one folder.
+
 <hr/>
 
 ## with image explanation of the same
@@ -84,4 +86,6 @@ So total no. of txt files = no. of black-background texts in the same page u are
 
 _**So total no. of files in a topic folder = no. of screenshots +  no. of black-background texts**_
 ![](./images/instruction_9.PNG)<br/>
-![](./images/instruction_8.PNG)
+![](./images/instruction_8.PNG)<br/>
+
+4. Right click on the webpage u are on. click on "save as"  choose type "Webpage, complete". It will create one html file and one folder.
